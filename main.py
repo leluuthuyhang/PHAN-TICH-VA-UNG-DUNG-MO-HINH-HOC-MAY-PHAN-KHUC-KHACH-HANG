@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Tiêu đề và giới thiệu
-st.title("ỨNG DỤNG PHÂN KHÚC KHÁCH HÀNG")
+st.title("ỨNG DỤNG PHÂN KHÚC KHÁCH HÀNG TỰ ĐỘNG")
 st.write("""
     Tải lên tệp CSV hoặc Excel chứa dữ liệu khách hàng. Ứng dụng này sử dụng thuật toán K-Means để phân tích dữ liệu hành vi khách hàng.
 """)
